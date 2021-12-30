@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @afhossain
+- 👋 Hi, I’m Afrina Hossain
 - 👀 I’m interested in Machine Learning,Python
 - 🌱 I’m currently learning Recommendation System
 
